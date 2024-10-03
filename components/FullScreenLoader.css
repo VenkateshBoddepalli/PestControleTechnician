@@ -1,0 +1,5 @@
+.fullscreen-loader {
+    --background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    --spinner-color: #ffffff; /* White spinner */
+  }
+  

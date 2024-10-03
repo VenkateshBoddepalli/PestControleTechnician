@@ -1,0 +1,35 @@
+.calendar {
+    position: relative;
+  }
+  
+  .calendar-icon {
+    position: absolute;
+   right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    background-color: white;
+    padding-right: 10px;
+    color: #666; /* Adjust the color to match your design */
+    /* padding: 3px; */
+  }
+  
+
+  
+  .timer {
+    position: relative;
+  }
+  
+  .timer-icon {
+    position: absolute;
+  right:5px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #666; /* Adjust the color to match your design */
+    background-color:#fff;
+    padding-right: 10px;
+    /* padding: 3px; */
+  }
+  
+    

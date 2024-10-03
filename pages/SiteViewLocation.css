@@ -1,0 +1,17 @@
+.custom-ion-item {
+    display: flex;
+    align-items: center;
+    --border-width: 0px; 
+    
+  }
+  
+  .custom-ion-item ion-label {
+    font-weight: bold;
+  }
+  .custom-ion-input {
+    flex-grow: 1;
+    padding: 5px;
+    border: 1px solid #ccc; /* Remove the border */
+    border-radius: 0;
+    margin-left: 45px;
+  }
